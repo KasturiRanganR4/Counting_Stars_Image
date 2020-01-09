@@ -1,2 +1,2 @@
-# Stars_count_image
-From a sky picture counting stars
+# Counting_Stars_Images
+From a sky picture stars are counted.
